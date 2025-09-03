@@ -32,4 +32,38 @@
   <ul>
     <li><strong>Specification and Price Analysis:</strong>  
       Compared phone specs (RAM, cameras, processors, battery, screen size) and their influence on launch prices.  
-      Analyzed price differences for same/similar models across countries
+      Analyzed price differences for same/similar models across countries.</li>
+    <li><strong>Brand and Launch Year Trends:</strong>  
+      Assessed leading brands and their flagship models, pricing strategies, and release schedules.  
+      Visualized shifts in popular features and price points over time.</li>
+  </ul>
+
+  <h2>Requirements</h2>
+  <ul>
+    <li>Python 3.8 or later</li>
+    <li>pandas, matplotlib</li>
+  </ul>
+
+  <h2>How to Run</h2>
+  <ol>
+    <li>Clone this repository.</li>
+    <li>Open <code>mobile.ipynb</code> in Jupyter Notebook or VSCode.</li>
+    <li>Ensure all dependencies are installed (see Requirements).</li>
+    <li>Run each notebook cell to reproduce EDA, visualization, and insights.</li>
+  </ol>
+
+  <h2>Results</h2>
+  <ul>
+    <li>Presents an interactive and visual analysis of the global mobile phone market for 2021–2024.</li>
+    <li>Reveals trends in specifications (e.g., increasing RAM, camera quality, battery capacity).</li>
+    <li>Compares price movements and feature adoption by brand and geography.</li>
+    <li>Highlights strategic pricing of flagship models across regions.</li>
+  </ul>
+
+  <h2>License</h2>
+  <p>MIT License.</p>
+
+  <hr>
+  <p><strong>Author:</strong> Suryansh Singh Solanki</p>
+</body>
+</html>
